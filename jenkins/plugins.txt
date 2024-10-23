@@ -1,0 +1,5 @@
+pipeline
+docker-workflow
+git
+github
+credentials-binding
